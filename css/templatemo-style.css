@@ -48,7 +48,7 @@ p {
 
 .primary-blue-button a {
 	display: inline-block;
-	background-color: #33c1cf;
+	background-color: #cc6666;
 	font-size: 13px;
 	padding: 12px 18px;
 	color: #fff;
@@ -133,7 +133,7 @@ p {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 25px;
 	text-transform: uppercase;
-	color: #fff!important;
+	color: #000000!important;
 	transition: all 0.5s;
 	 
 }
@@ -361,7 +361,7 @@ bootstrap.min.css:5
 }
 
 #portfolio .section-heading p {
-	color: #fff;
+	color: #000000;
 	padding-right: 70px;
 }
 
