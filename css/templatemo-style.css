@@ -222,7 +222,7 @@ bootstrap.min.css:5
 .baner-content .text-content h2 {
 	font-size: 36px;
 	font-weight: 400;
-	color: #fff;
+	color: #cc6666;
 }
 
 .baner-content .text-content h2 span {
@@ -237,7 +237,7 @@ bootstrap.min.css:5
 }
 
 .baner-content .text-content p {
-	color: #fff;
+	color: #cc6666;
 	font-size: 14px;
 	line-height: 24px;
 	padding: 0px 25%;
