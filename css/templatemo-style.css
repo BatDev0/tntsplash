@@ -64,7 +64,7 @@ p {
 	background-color: #33c1cf;
 	font-size: 13px!important;
 	padding: 12px 18px;
-	color: #fff;
+	color: #cc6666;
 	font-weight: 400!important;
 	letter-spacing: 1px;
 	text-transform: uppercase;
@@ -99,7 +99,7 @@ p {
 }
 
 .navbar-nav>li>a {
-	color: #000000!important;
+	color: #cc6666!important;
 	font-size: 13px;
 	font-weight: 300;
 	text-transform: uppercase;
@@ -133,7 +133,7 @@ p {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 25px;
 	text-transform: uppercase;
-	color: #000000!important;
+	color: #cc6666!important;
 	transition: all 0.5s;
 	 
 }
@@ -287,7 +287,7 @@ bootstrap.min.css:5
 }
 
 #about .service-item p {
-	color: #fff;
+	color: #cc6666;
 	margin-top: 30px;
 }
 
@@ -361,7 +361,7 @@ bootstrap.min.css:5
 }
 
 #portfolio .section-heading p {
-	color: #000000;
+	color: #cc6666;
 	padding-right: 70px;
 }
 
