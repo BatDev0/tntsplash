@@ -266,7 +266,7 @@ bootstrap.min.css:5
 	display: inline-block;
 	text-align: center;
 	line-height: 104px;
-	border: 3px solid #fff;
+	border: 3px solid #cc6666;
 	border-radius: 50%;
 	background-color: #f7c552;
 }
@@ -315,7 +315,7 @@ bootstrap.min.css:5
 
 .filter-categories ul li span {
   cursor: pointer;
-  color: #fff;
+  color: #cc6666;
   display: inline-block;
   font-size: 15px;
   text-transform: capitalize;
@@ -373,7 +373,7 @@ bootstrap.min.css:5
 }
 
 #testimonial .testimonials-item h4 {
-	color: #fff;
+	color: #cc6666;
 	font-size: 17px;
 	font-weight: 500;
 	letter-spacing: 0.5px;
@@ -383,7 +383,7 @@ bootstrap.min.css:5
 
 #testimonial .testimonials-item span {
 	font-size: 13px;
-	color: #fff;
+	color: #cc6666;
 	letter-spacing: 0.5px;
 }
 
